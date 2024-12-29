@@ -1,3 +1,1 @@
-import pickle
-import streamlit as st
-
+import streamlit as sts
